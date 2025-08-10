@@ -34,3 +34,4 @@ Move Nils only to the right (→) or up (↑). Collect the number of grains show
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
 </a>
 
+![Image](nils.png)
