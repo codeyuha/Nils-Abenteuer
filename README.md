@@ -31,5 +31,5 @@ Move Nils only to the right (→) or up (↑). Collect the number of grains show
 * Du kannst diese README als Einleitung auf GitHub/GitLab oder auf einer Projektseite verwenden — der Link führt direkt zur Spielseite.
 
 [☕ Buy me a coffee](https://buymeacoffee.com/selfcode)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/selfcode)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="selfcode" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
