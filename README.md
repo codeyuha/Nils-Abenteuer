@@ -37,5 +37,6 @@ Move Nils only to the right (→) or up (↑). Collect the number of grains show
 ### Support the project Skrill 💳
 
 [![Skrill Donate](https://content.skrill.com/sites/default/files/send-money-button.png)](https://pay.skrill.com/?rid=autocadmdav%40gmail.com)
+  💳 [Donate Skrill](https://pay.skrill.com/?rid=autocadmdav%40gmail.com)
 
 ![Image](nils.png)
