@@ -39,6 +39,7 @@ Move Nils only to the right (→) or up (↑). Collect the number of grains show
 **Donate via Skrill**
 - send money to autocadmdav@gmail.com
   
-[![Donate via Skrill](skrill.png)(https://account.skrill.com/wallet/ng/dashboard)]
+[![Donate via Skrill to autocadmdav@gmail.com](skrill.png)](https://account.skrill.com/wallet/ng/dashboard)
+
 
 ![Image](nils.png)
