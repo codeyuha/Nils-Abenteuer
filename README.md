@@ -25,13 +25,6 @@ Bewege Nils nur nach rechts (→) oder oben (↑). Sammle auf jeder Insel die an
 **English (short):**
 Move Nils only to the right (→) or up (↑). Collect the number of grains shown on each island. Goal: collect **exactly 40 grains**.
 
----
-
-## Hinweis / Notes
-
-* Für Hinweise oder Fragen kannst du die Projektseite besuchen (Link oben).
-* Du kannst diese README als Einleitung auf GitHub/GitLab oder auf einer Projektseite verwenden — der Link führt direkt zur Spielseite.
-
 ### Support the project PayPal💖
 
 [![PayPal Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=autocadmdav%40gmail.com&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=USD)
