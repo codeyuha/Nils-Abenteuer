@@ -30,8 +30,8 @@ Move Nils only to the right (→) or up (↑). Collect the number of grains show
 * Für Hinweise oder Fragen kannst du die Projektseite besuchen (Link oben).
 * Du kannst diese README als Einleitung auf GitHub/GitLab oder auf einer Projektseite verwenden — der Link führt direkt zur Spielseite.
 
-<a href="https://buymeacoffee.com/selfcode">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150">
-</a>
+### Support the project 💖
+
+[![PayPal Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=autocadmdav%40gmail.com&no_recurring=0&item_name=Thank+you+for+your+support%21&currency_code=USD)
 
 ![Image](nils.png)
