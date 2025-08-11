@@ -1,17 +1,19 @@
 # Nils' Abenteuer
 
+## Play / Spiel starten
+
+[► Play Nils' Abenteuer](https://pythonyu.com/nils/nils.html)
+
+---
+
+![Image](nils.png)
+
 **Spiel & Aufgabe**
 In einem fernen Königreich, jenseits blauer Meere und hoher Berge, lebte ein kluger Junge namens Nils. Nachdem er die Schule beendet hatte, sah er auf dem Heimweg eine Gans, die dringend Getreidekörner brauchte. Um ihr zu helfen, musste Nils gefährliche kleine Inseln überwinden und auf jeder Insel die richtige Menge an Körnern einsammeln. Insgesamt sollte Nils genau **40 Körner** sammeln.
 
 Nils darf sich nur nach **rechts (→)** und nach **oben (↑)** bewegen (links und unten sind verboten).
 Jede Insel zeigt an, wie viele Körner Nils dort sammeln kann (Zahlen im Feld).
 Finde den Weg, auf dem Nils genau **40 Körner** sammelt!
-
----
-
-## Play / Spiel starten
-
-[► Play Nils' Abenteuer](https://pythonyu.com/nils/nils.html)
 
 ---
 
@@ -42,4 +44,4 @@ Move Nils only to the right (→) or up (↑). Collect the number of grains show
 [![Donate via Skrill to autocadmdav@gmail.com](skrill.png)](https://account.skrill.com/wallet/ng/dashboard)
 
 
-![Image](nils.png)
+
